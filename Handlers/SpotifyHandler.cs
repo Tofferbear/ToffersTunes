@@ -128,8 +128,10 @@ namespace ToffersTunes.Handlers
                     trackMetrics.Add(new TrackMetrics
                     {
                         Album = trackPlay.Track.Album,
+                        DurationMilliseconds = trackPlay.Track.DurationMilliseconds,
                         Name = trackPlay.Track.Name,
                         PlayCount = 1,
+                        PlayedAt = trackPlay.PlayedAt,
                         TrackId = trackPlay.Track.Id
                     });
                 }

@@ -4,8 +4,8 @@
         "AzureWebJobsStorage": "UseDevelopmentStorage=true",
         "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
         "HistoricPlaysFullPath": "D:\\Storage\\HistoricPlays.json",
-        "PlayCountsFullPath": "D:\\MyRepos\\spotify-track-metrics\\node_modules\\PlayCounts.json",
-        "SpotifyAppClientId": "0005222e4dac4c8a8d88f77bd12e5981",
-        "SpotifyAppClientSecret": "d64a3035d46c4879815c64abcd32c439"
+        "PlayCountsFullPath": "D:\\MyRepos\\trackify\\node_modules\\PlayCounts.json",
+        "SpotifyAppClientId": "",
+        "SpotifyAppClientSecret": ""
     }
 }
